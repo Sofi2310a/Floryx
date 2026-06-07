@@ -721,7 +721,9 @@ font-weight: 500;
     .shop h1 {
         font-size: 44px;
     }
- 
+ .btn{
+    margin-top: 10px;
+ }
     .cards {
         grid-template-columns: repeat(2, 1fr);
     }
