@@ -848,4 +848,7 @@ font-weight: 500;
     .form button {
         padding: 12px;
     }
+    .heart{
+        display: none;
+    }
 }
